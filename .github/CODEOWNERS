@@ -1,3 +1,4 @@
 *.js @argentinaluiz
 .github/ @wesleywillians
 *.go @wesleywillians2
+*.html @argentinaluiz
